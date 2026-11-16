@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bank Branch Finder</string>
+    <string name="search_hint">Enter 11-digit IFSC Code (e.g. SBIN0000001)</string>
+    <string name="scan_cheque">Scan Cheque</string>
+    <string name="pick_gallery">Gallery</string>
+    <string name="search">Search</string>
+    <string name="copy_ifsc">Copy IFSC</string>
+    <string name="saved_favourites">Saved Favourites</string>
+    <string name="no_favourites">No favourite branches saved yet.</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="payment_services">Supported Payment Services:</string>
+    <string name="default_web_client_id_placeholder">1234567890-placeholder.apps.googleusercontent.com</string>
+</resources>
